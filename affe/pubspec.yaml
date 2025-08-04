@@ -1,6 +1,7 @@
 name: affe
 description: All-in-one Flutter Framework Encapsulations for app development.
 version: 0.0.0
+resolution: workspace
 repository: https://github.com/affeflutter/affe
 
 environment:

@@ -1,0 +1,10 @@
+name: affe_workspace
+description: Script runner for monorepo management at workspace root.
+version: 0.0.0
+publish_to: none
+
+environment:
+  sdk: ^3.8.1
+
+workspace:
+  - affe
