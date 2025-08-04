@@ -1,2 +1,3 @@
-# affe
-All-in-one Flutter Framework Encapsulations, the monorepo and workspace.
+# Affe
+
+All-in-one Flutter Framework Encapsulations.
