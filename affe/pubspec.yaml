@@ -1,0 +1,18 @@
+name: affe
+description: All-in-one Flutter Framework Encapsulations for app development.
+version: 0.0.1
+resolution: workspace
+repository: https://github.com/affeflutter/affe
+
+environment:
+  sdk: ^3.8.1
+  flutter: ">=3.32.6"
+
+dependencies:
+  flutter: { sdk: flutter }
+
+dev_dependencies:
+  flutter_test: { sdk: flutter }
+
+flutter:
+  uses-material-design: false
