@@ -1,8 +1,8 @@
-name: affe
-description: All-in-one Flutter Framework Encapsulations for app development.
-version: 0.0.1
+name: wrap
+description: Chain-style programming support to avoid nesting hell in Flutter.
+version: 0.0.0
 resolution: workspace
-repository: https://github.com/affetools/affe/tree/main/affe
+repository: https://github.com/affetools/affe/tree/main/wrap
 
 environment:
   sdk: ^3.8.1
