@@ -12,6 +12,7 @@ analyzer:
 
 # Synced: all linter rules for Dart 3.8.1,
 # and comment to cancel when necessary.
+# see https://dart.dev/tools/linter-rules
 # see https://dart.dev/tools/linter-rules/all
 linter:
   rules:
