@@ -21,7 +21,8 @@
 
   "explorer.fileNesting.patterns": {
     "pubspec.yaml": "pubspec.lock, .metadata",
-    "*.dart": "${capture}.*.g.dart"
+    "*.dart": "${capture}.*.g.dart",
+    "readme.md": "license"
   },
 
   // Code spell checker (requires recommended extensions).
